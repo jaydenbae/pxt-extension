@@ -1,8 +1,8 @@
-namespace testBlock {
+namespace StringViewer {
     /**Show string hello */
     //% blockId=showhellostring
-    //% block="showhello"
-    export function testBlock(){  
+    //% block="Test"
+    export function Test(){  
        basic.showString("Hello!")
     }
 }
